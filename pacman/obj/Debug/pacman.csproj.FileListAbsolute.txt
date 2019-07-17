@@ -1,0 +1,24 @@
+H:\Мои документы\practice\pacman\pacman\bin\Debug\pacman.exe.config
+H:\Мои документы\practice\pacman\pacman\bin\Debug\pacman.exe
+H:\Мои документы\practice\pacman\pacman\bin\Debug\pacman.pdb
+H:\Мои документы\practice\pacman\pacman\obj\Debug\pacman.Form1.resources
+H:\Мои документы\practice\pacman\pacman\obj\Debug\pacman.Properties.Resources.resources
+H:\Мои документы\practice\pacman\pacman\obj\Debug\pacman.csproj.GenerateResource.Cache
+H:\Мои документы\practice\pacman\pacman\obj\Debug\pacman.exe
+H:\Мои документы\practice\pacman\pacman\obj\Debug\pacman.pdb
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\bin\Debug\pacman.exe.config
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Debug\pacman.exe
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Debug\pacman.pdb
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\bin\Debug\pacman.exe
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\bin\Debug\pacman.pdb
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Debug\pacman.csprojResolveAssemblyReference.cache
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Debug\pacman.Form1.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Debug\pacman.Properties.Resources.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Debug\pacman.csproj.GenerateResource.Cache
+H:\Мои документы\practice\pacman\pacman\obj\Debug\pacman.csprojResolveAssemblyReference.cache
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Debug\pacman.Form2.resources
+H:\Мои документы\practice\pacman\pacman\obj\Debug\pacman.Form2.resources
+H:\Мои документы\practice\pacman\pacman\obj\Debug\pacman.Form0.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Debug\pacman.Form0.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Debug\pacman.Form3.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Debug\pacman.DEVCONSOLE.resources

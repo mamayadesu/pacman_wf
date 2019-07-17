@@ -1,0 +1,13 @@
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\bin\Release\pacman.exe.config
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\bin\Release\pacman.exe
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\bin\Release\pacman.pdb
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Release\pacman.DEVCONSOLE.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Release\pacman.Form0.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Release\pacman.Form1.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Release\pacman.Form2.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Release\pacman.Form3.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Release\pacman.Properties.Resources.resources
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Release\pacman.csproj.GenerateResource.Cache
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Release\pacman.exe
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Release\pacman.pdb
+C:\Users\Semyon\Documents\Visual Studio 2013\Projects\pacman\pacman\obj\Release\pacman.csprojResolveAssemblyReference.cache
